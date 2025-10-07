@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>padroescriacao</groupId>
-    <artifactId>singleton</artifactId>
+    <artifactId>abstractfactory</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Padrões Criacionais - Singleton</name>
-    <description>DCC078 - ASPECTOS AVANÇADOS EM ENGENHARIA DE SOFTWARE - Singleton Pattern</description>
+    <name>Padrões Criacionais - Abstract Factory</name>
+    <description>DCC078 - ASPECTOS AVANÇADOS EM ENGENHARIA DE SOFTWARE - Abstract Factory Pattern</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -58,7 +58,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>padroescriacao.singleton.Main</mainClass>
+                            <mainClass>padroescriacao.abstractfactory.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
