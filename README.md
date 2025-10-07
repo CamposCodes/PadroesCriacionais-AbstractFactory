@@ -21,7 +21,7 @@
 
 ## 🧐 Sobre <a name="sobre"></a>
 > **Disciplina:** DCC078 – Aspectos Avançados em Engenharia de Software   </br>
-> **Projeto:**Sistema de Documentação Automotiva -  Abstract Factory   </br>
+> **Projeto:** Sistema de Documentação Automotiva -  Abstract Factory   </br>
 > **Docente:** Prof. Marco Antônio Pereira Araújo  </br>
 > **Data de entrega:** 07/10/2025   </br>
 > **Aluno:** [Gabriel Campos Lima Alves](#autor)  </br>
