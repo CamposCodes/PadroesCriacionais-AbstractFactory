@@ -20,10 +20,10 @@
 - [Autor](#autor)
 
 ## 🧐 Sobre <a name="sobre"></a>
-> **Disciplina:** DCC078 – Aspectos Avançados em Engenharia de Software
-> **Projeto:** Sistema de Documentação Automotiva com Abstract Factory
+> **Disciplina:** DCC078 – Aspectos Avançados em Engenharia de Software  
+> **Projeto:** Sistema de Registro de Logs com Singleton
 > **Docente:** Prof. Marco Antônio Pereira Araújo
-> **Data de entrega:** 07/10/2025
+> **Data de entrega:** 07/10/2025  
 > **Aluno:** [Gabriel Campos Lima Alves](#autor)
 
 ### Padrão Abstract Factory
@@ -118,9 +118,9 @@ mvn package
 ```
 
 ## 👨‍💻 Autor <a name="autor"></a>
-**Gabriel Campos Lima Alves**
-Matrícula: 202176005
-Email: campos.gabriel@estudante.ufjf.br
+**Gabriel Campos Lima Alves**  
+Matrícula: 202176005  
+Email: campos.gabriel@estudante.ufjf.br  
 GitHub: [@CamposCodes](https://github.com/CamposCodes)
 
 ---
