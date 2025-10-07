@@ -125,25 +125,4 @@ GitHub: [@CamposCodes](https://github.com/CamposCodes)
 
 ---
 
-## 🏗️ Estrutura do Projeto
-```
-src/
-├── main/java/padroescriacao/abstractfactory/
-│   ├── Certificado.java                 # Interface produto abstrato
-│   ├── Manual.java                      # Interface produto abstrato
-│   ├── FabricaAbstrata.java            # Interface fábrica abstrata
-│   ├── CertificadoNacional.java        # Produto concreto nacional
-│   ├── ManualNacional.java             # Produto concreto nacional
-│   ├── CertificadoImportado.java       # Produto concreto importado
-│   ├── ManualImportado.java            # Produto concreto importado
-│   ├── FabricaNacional.java            # Fábrica concreta nacional
-│   ├── FabricaImportado.java           # Fábrica concreta importada
-│   ├── Veiculo.java                    # Cliente que utiliza as fábricas
-│   └── Main.java                       # Demonstração do padrão
-└── test/java/padroescriacao/abstractfactory/
-    └── VeiculoTest.java                # Testes unitários JUnit 5
-```
-
----
-
 *Projeto de uso acadêmico exclusivo para a disciplina DCC078 - UFJF*
