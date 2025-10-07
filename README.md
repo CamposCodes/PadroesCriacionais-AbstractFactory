@@ -20,11 +20,11 @@
 - [Autor](#autor)
 
 ## 🧐 Sobre <a name="sobre"></a>
-> **Disciplina:** DCC078 – Aspectos Avançados em Engenharia de Software  
-> **Projeto:** Sistema de Registro de Logs com Singleton
-> **Docente:** Prof. Marco Antônio Pereira Araújo
-> **Data de entrega:** 07/10/2025  
-> **Aluno:** [Gabriel Campos Lima Alves](#autor)
+> **Disciplina:** DCC078 – Aspectos Avançados em Engenharia de Software   </br>
+> **Projeto:**Sistema de Documentação Automotiva -  Abstract Factory   </br>
+> **Docente:** Prof. Marco Antônio Pereira Araújo  </br>
+> **Data de entrega:** 07/10/2025   </br>
+> **Aluno:** [Gabriel Campos Lima Alves](#autor)  </br>
 
 ### Padrão Abstract Factory
 Implementação do padrão **Abstract Factory** para criação de famílias de produtos relacionados no contexto automotivo.
